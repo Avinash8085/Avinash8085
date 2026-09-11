@@ -169,9 +169,6 @@ Tools: PyTorch, ONNX, TensorRT, Docker, MLflow, FastAPI
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GOKU-BOT&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&cache_seconds=86400"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKU-BOT&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400"/>
 
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GOKU-BOT&theme=tokyonight&border_radius=10&cache_seconds=86400)](https://git.io/streak-stats)
 
 <br/>
 
@@ -183,9 +180,6 @@ Tools: PyTorch, ONNX, TensorRT, Docker, MLflow, FastAPI
 
 ## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%236A0DAD" width="26"/> Activity Graph
 
-<div align="center">
-
-![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek140305&theme=tokyo-night&hide_border=true)
 
 </div>
 
