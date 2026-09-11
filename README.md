@@ -174,10 +174,7 @@ Tools: PyTorch, ONNX, TensorRT, Docker, MLflow, FastAPI
 
 <img src="https://github-profile-trophy.vercel.app/?username=Abhishek140305&theme=algolia&no-frame=true&row=1&column=6"/>
 
-</div>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
+<
 ## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%236A0DAD" width="26"/> Activity Graph
 
 
