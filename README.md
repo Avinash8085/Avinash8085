@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:6A0DAD,100:38ef7d&height=230&section=header&text=Avinash%20pal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:6A0DAD,100:38ef7d&height=230&section=header&text=Avinash%20Pal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38ef7d&center=true&vCenter=true&width=680&lines=B.Tech+ECE+%40+MPEC+KANPUR+(2023-2027);Building+with+Python%2C+ML+%26+Full-Stack+Web;RAG+Systems+%2B+NLP+%2B+Predictive+ML+Apps;Seeking+SDE+%2F+AI-ML+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38ef7d&center=true&vCenter=true&width=680&lines=B.Tech+CSE-AI+%40+MPEC+KANPUR+(2024-2028);Building+with+Python%2C+ML+%26+Full-Stack+Web;RAG+Systems+%2B+NLP+%2B+Predictive+ML+Apps;Seeking+SDE+%2F+AI-ML+Internships" />
 
 <br/>
 
 <p>
 <a href="https://linkedin.com/in/avinash-pal-927468379"><img src="https://img.shields.io/badge/LinkedIn-11998E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:avinashpal8085@gmail.com"><img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:avinashp8085@gmail.com"><img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Avinash8085"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -27,14 +27,14 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/adarshbiradar/adarshbiradar/master/programming.gif"/>
 
-Results-driven 4th-year **B.Tech (COMPUTER SCIENCE ENGINEERING)** student at **MPEC KANPUR**, graduating in 2027. I build across the stack — from training ML models to shipping full production web apps — with a focus on **Machine Learning, NLP, REST APIs, and scalable software design**.
+Results-driven 3rd-year **B.Tech (COMPUTER SCIENCE ENGINEERING)** student at **MPEC KANPUR**, graduating in 2028. I build across the stack — from training ML models to shipping full production web apps — with a focus on **Machine Learning, NLP, REST APIs, and scalable software design**.
 
 ```python
-class Avinash Pal:
+class Avinash Pal :
     def __init__(self):
-        self.name = "Avinash pal"
+        self.name = "Avinash Pal"
         self.branch = "Computer Science Engineering"
-        self.college = "Maharana Pratap Engineering College  (2023 - 2027)"
+        self.college = "Maharana Pratap Engineering College  (2023- 2027)"
         self.interests = [
             "Machine Learning & Deep Learning",
             "Natural Language Processing (NLP)",
@@ -160,25 +160,7 @@ Tools: PyTorch, ONNX, TensorRT, Docker, MLflow, FastAPI
 
 ---
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2311998e" width="26"/> GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GOKU-BOT&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&cache_seconds=86400"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKU-BOT&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400"/>
-
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek140305&theme=algolia&no-frame=true&row=1&column=6"/>
-
-<
-## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%236A0DAD" width="26"/> Activity Graph
-
-
-</div>
 
 ## <img src="https://api.iconify.design/mdi/map-marker-path.svg?color=%2311998e" width="26"/> What's Next
 
