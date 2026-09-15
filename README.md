@@ -27,7 +27,7 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/adarshbiradar/adarshbiradar/master/programming.gif"/>
 
-Results-driven 3rd-year **B.Tech (COMPUTER SCIENCE ENGINEERING)** student at **MPEC KANPUR**, graduating in 2028. I build across the stack — from training ML models to shipping full production web apps — with a focus on **Machine Learning, NLP, REST APIs, and scalable software design**.
+Results-driven 3rd-year **B.Tech (COMPUTER SCIENCE ENGINEERING)** student at **MPEC KANPUR**, graduating in 2027. I build across the stack — from training ML models to shipping full production web apps — with a focus on **Machine Learning, NLP, REST APIs, and scalable software design**.
 
 ```python
 class Avinash Pal :
