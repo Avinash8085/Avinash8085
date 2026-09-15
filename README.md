@@ -157,7 +157,7 @@ Tools: PyTorch, ONNX, TensorRT, Docker, MLflow, FastAPI
 * 🥈 **4th Place** — Sky Maneuvers Autonomous Flight Competition @ IIT Roorkee, among 50+ teams.
 * 🚁 **Aero Fabrication Club**: Mentored 100+ junior students in drone systems, AI/ML, and hardware fabrication.
 * 📜 **Certifications**: Introduction to Machine Learning (Coursera), Signal Processing Fundamentals (NPTEL), Programming in Java (NPTEL).
-
+* 📜 **Certifications**: Machine Learning workshop(Softpro india). 
 ---
 
 
