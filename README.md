@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:6A0DAD,100:38ef7d&height=230&section=header&text=Avinash%20Pal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38ef7d&center=true&vCenter=true&width=680&lines=B.Tech+CSE-AI+%40+MPEC+KANPUR+(2024-2028);Building+with+Python%2C+ML+%26+Full-Stack+Web;RAG+Systems+%2B+NLP+%2B+Predictive+ML+Apps;Seeking+SDE+%2F+AI-ML+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38ef7d&center=true&vCenter=true&width=680&lines=B.Tech+CSE-AI+%40+MPEC+KANPUR+(2023-2027);Building+with+Python%2C+ML+%26+Full-Stack+Web;RAG+Systems+%2B+NLP+%2B+Predictive+ML+Apps;Seeking+SDE+%2F+AI-ML+Internships" />
 
 <br/>
 
